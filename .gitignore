@@ -1,12 +1,16 @@
 .DS_Store
 .env*
+.venv*
 .flaskenv
 *.pyc
 *.pyo
 env/
+venv/
 env*
+venv*
 dist/
 build/
+examples/
 *.egg
 *.egg-info/
 _mailinglist
